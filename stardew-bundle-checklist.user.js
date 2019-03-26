@@ -1,4 +1,4 @@
-// == UserScript ==
+// ==UserScript==
 // @name         Stardew Valley community center wiki checklist
 // @version      0.2
 // @description  Script to add a checklist to Stardew Valley wiki for community center bundles. Checkbox states are saved after reload.
